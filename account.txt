@@ -1,2 +1,2 @@
 This file is used to store account information
-usernamepassword
+username  password
